@@ -1,5 +1,10 @@
 // write your code below!
 
+var name = "you";
+var days = 12
+var holiday = "christmas"
+
+
 function happyHolidays() {
   return ("Happy holidays!")
 }
