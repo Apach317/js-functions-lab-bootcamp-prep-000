@@ -13,8 +13,6 @@ function happyHolidaysTo() {
   return (`Happy holidays, ${name}!`)
 }
 
-holiday = "Mother\'s Day"
-
 function happyHolidayTo() {
   return (`Happy ${holiday}, ${name}!`)
 }
